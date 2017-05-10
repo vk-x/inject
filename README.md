@@ -1,3 +1,5 @@
+# This project has been merged into [the vk-x monorepo](https://github.com/vk-x/vk-x)
+
 # inject
 
 For use inside Chrome extensions. Injects scripts into the page context.
